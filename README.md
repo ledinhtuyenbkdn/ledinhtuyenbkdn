@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ledinhtuyenbkdn
+- 👀 I’m a CRUD fanboy.
+- 🌱 I’m currently learning machine learning.
+- 💞️ I’m familiar with Spring Framework(Spring MVC, Spring JPA, Spring Cloud,...), React.js
+- 📫 @ledinhtuyenbkdn
