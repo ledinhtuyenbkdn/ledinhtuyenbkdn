@@ -2,6 +2,8 @@
 - 👀 I’m a CRUD fanboy.
 - 🌱 I’m currently a software engineer.
 - 💞️ I’m familiar with Spring Framework(Spring MVC, Spring JPA, Spring Security, Spring Cloud,...)
+- 🧩 I have experiences in microservice architecture.
 - 🤩 Besides, I can use some client side library, such as React.js, Redux.
 - 💌 I have experiences in messaging system like Kafka, RabbitMQ.
+- 🚚 CD/CI tool: Github Actions
 - 📫 @ledinhtuyenbkdn
