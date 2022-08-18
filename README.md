@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @ledinhtuyenbkdn
-- 👀 I’m a CRUD fanboy.
-- 🌱 I’m currently a software engineer.
-- 💞️ I’m familiar with Spring Framework(Spring MVC, Spring JPA, Spring Security, Spring Cloud,...)
-- 🧩 I have experiences in microservice architecture.
-- 🤩 Besides, I can use some client side library, such as React.js, Redux.
-- 💌 I have experiences in messaging system like Kafka, RabbitMQ.
-- 🚚 CD/CI tool: Github Actions
-- 📫 @ledinhtuyenbkdn
+My technology stack:
+- Language: Java(proficient), JavaScript(prior experience), Python
+- Back End Framework: Spring Framework(Web, Security, Cloud), Jhipster platform
+- Front End Framework/Library: ReactJS, Redux(Redux Toolkit, Redux Saga), Webpack
+- Messaging System: RabbitMQ, Kafka
+- Database: MySQL, Redis
+- Container: Docker, Docker Compose
+- CI/CD tool: Github Actions
+- I have experiences about microservice architecture(API gateway, service discovery, circuit breaker)
